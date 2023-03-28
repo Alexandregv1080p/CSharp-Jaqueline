@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\ProjetoAgenda\ProjetoAgenda\bin\Debug\ProjetoAgenda.exe.config
+C:\Users\Aluno\Desktop\ProjetoAgenda\ProjetoAgenda\bin\Debug\ProjetoAgenda.exe
+C:\Users\Aluno\Desktop\ProjetoAgenda\ProjetoAgenda\bin\Debug\ProjetoAgenda.pdb
+C:\Users\Aluno\Desktop\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.exe
+C:\Users\Aluno\Desktop\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.pdb
