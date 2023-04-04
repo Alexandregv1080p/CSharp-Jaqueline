@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A82F68A3-B9F6-4591-A9BA-8D2393E94203}</ProjectGuid>
+    <ProjectGuid>{C019EACB-5C5E-453D-B4B8-881CB3A7FA0F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Aula3</RootNamespace>
     <AssemblyName>Aula3</AssemblyName>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Funcionario.cs" />
-    <Compile Include="Pessoa.cs" />
+    <Compile Include="Atleta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
