@@ -18,14 +18,10 @@ namespace Aula3
             {
                 Console.WriteLine("---Registro de atletas---");
                 Console.WriteLine("1 - Criar atleta");
-                Console.WriteLine("2 - Pesquisar o nome dos atletas por
-                modalidade");
-                Console.WriteLine("3 - Mostrar o nome dos atletas menores de 21
-                anos");
-                Console.WriteLine("4 - Mostrar os atletas de uma determinada
-                cidade");
-                Console.WriteLine("5 - Mostrar o numero de atletas de cada
-                modalidade");
+                Console.WriteLine("2 - Pesquisar o nome dos atletas por modalidade");
+                Console.WriteLine("3 - Mostrar o nome dos atletas menores de 21 anos");
+                Console.WriteLine("4 - Mostrar os atletas de uma determinada cidade");
+                Console.WriteLine("5 - Mostrar o numero de atletas de cada modalidade");
                 Console.WriteLine("6 - Sair");
                 op = int.Parse(Console.ReadLine());
                 if (op == 1)
