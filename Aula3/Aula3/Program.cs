@@ -70,10 +70,7 @@ namespace Aula3
                 {
                     Console.Clear();
 
-                    Console.Write("Digite o nome da modalidade em que deseja
-                    
-
-                    procurar atletas: ");
+                    Console.Write("Digite o nome da modalidade em que deseja procurar atletas: ");
                     nome = Console.ReadLine();
                     foreach (Atleta a in listaAtletas)
                     {
