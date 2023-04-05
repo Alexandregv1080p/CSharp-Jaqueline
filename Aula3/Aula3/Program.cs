@@ -129,10 +129,7 @@ namespace Aula3
                 {
                     Console.Clear();
 
-                    Console.WriteLine("Numero de atletas registrados em cada
-                    
-
-                    modalidade: ");
+                    Console.WriteLine("Numero de atletas registrados em cada modalidade: ");
                     int v = 1;
 
                     foreach (Atleta a in listaAtletas)
