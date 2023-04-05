@@ -37,10 +37,7 @@ namespace Aula3
                     A.Cidade = Console.ReadLine();
                     Console.Write("Digite a idade do atleta: ");
                     A.Idade = int.Parse(Console.ReadLine());
-                    Console.Write("Entre com o numero de modalidades que deseja
-                    
-
-                    gravar: ");
+                    Console.Write("Entre com o numero de modalidades que deseja gravar: ");
                     int n = int.Parse(Console.ReadLine());
                     List<string> modalidades = new List<string>();
                     for (int i = 0; i < n; i++)
