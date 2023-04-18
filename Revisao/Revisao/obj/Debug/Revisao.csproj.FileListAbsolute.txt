@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\Compu_Grafica(7 periodo)\Revisao\Revisao\bin\Debug\Revisao.exe.config
+C:\Users\Aluno\Documents\Compu_Grafica(7 periodo)\Revisao\Revisao\bin\Debug\Revisao.exe
+C:\Users\Aluno\Documents\Compu_Grafica(7 periodo)\Revisao\Revisao\bin\Debug\Revisao.pdb
+C:\Users\Aluno\Documents\Compu_Grafica(7 periodo)\Revisao\Revisao\obj\Debug\Revisao.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Compu_Grafica(7 periodo)\Revisao\Revisao\obj\Debug\Revisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Compu_Grafica(7 periodo)\Revisao\Revisao\obj\Debug\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Compu_Grafica(7 periodo)\Revisao\Revisao\obj\Debug\Revisao.exe
+C:\Users\Aluno\Documents\Compu_Grafica(7 periodo)\Revisao\Revisao\obj\Debug\Revisao.pdb
