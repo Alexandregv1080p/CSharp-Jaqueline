@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\POO_05\Exercicio_05_POO\Exercicio_05_POO\bin\Debug\Exercicio_05_POO.exe.config
+C:\Users\Aluno\Desktop\POO_05\Exercicio_05_POO\Exercicio_05_POO\bin\Debug\Exercicio_05_POO.exe
+C:\Users\Aluno\Desktop\POO_05\Exercicio_05_POO\Exercicio_05_POO\bin\Debug\Exercicio_05_POO.pdb
+C:\Users\Aluno\Desktop\POO_05\Exercicio_05_POO\Exercicio_05_POO\obj\Debug\Exercicio_05_POO.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\POO_05\Exercicio_05_POO\Exercicio_05_POO\obj\Debug\Exercicio_05_POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\POO_05\Exercicio_05_POO\Exercicio_05_POO\obj\Debug\Exercicio_05_POO.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\POO_05\Exercicio_05_POO\Exercicio_05_POO\obj\Debug\Exercicio_05_POO.exe
+C:\Users\Aluno\Desktop\POO_05\Exercicio_05_POO\Exercicio_05_POO\obj\Debug\Exercicio_05_POO.pdb
