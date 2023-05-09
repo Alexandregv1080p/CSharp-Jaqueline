@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\Exercicio_4\Exercicio_4\bin\Debug\Exercicio_4.exe.config
+C:\Users\Aluno\Desktop\Exercicio_4\Exercicio_4\bin\Debug\Exercicio_4.exe
+C:\Users\Aluno\Desktop\Exercicio_4\Exercicio_4\bin\Debug\Exercicio_4.pdb
+C:\Users\Aluno\Desktop\Exercicio_4\Exercicio_4\obj\Debug\Exercicio_4.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercicio_4\Exercicio_4\obj\Debug\Exercicio_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Exercicio_4\Exercicio_4\obj\Debug\Exercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exercicio_4\Exercicio_4\obj\Debug\Exercicio_4.exe
+C:\Users\Aluno\Desktop\Exercicio_4\Exercicio_4\obj\Debug\Exercicio_4.pdb
