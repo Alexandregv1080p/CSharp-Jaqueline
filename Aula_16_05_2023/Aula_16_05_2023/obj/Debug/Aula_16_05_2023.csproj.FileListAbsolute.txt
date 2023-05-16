@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\POO\Aula_16_05_2023\Aula_16_05_2023\bin\Debug\Aula_16_05_2023.exe.config
+C:\Users\Aluno\Desktop\POO\Aula_16_05_2023\Aula_16_05_2023\bin\Debug\Aula_16_05_2023.exe
+C:\Users\Aluno\Desktop\POO\Aula_16_05_2023\Aula_16_05_2023\bin\Debug\Aula_16_05_2023.pdb
+C:\Users\Aluno\Desktop\POO\Aula_16_05_2023\Aula_16_05_2023\obj\Debug\Aula_16_05_2023.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\POO\Aula_16_05_2023\Aula_16_05_2023\obj\Debug\Aula_16_05_2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\POO\Aula_16_05_2023\Aula_16_05_2023\obj\Debug\Aula_16_05_2023.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\POO\Aula_16_05_2023\Aula_16_05_2023\obj\Debug\Aula_16_05_2023.exe
+C:\Users\Aluno\Desktop\POO\Aula_16_05_2023\Aula_16_05_2023\obj\Debug\Aula_16_05_2023.pdb
