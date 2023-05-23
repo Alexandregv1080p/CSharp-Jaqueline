@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\ProjetoSala\ProjetoSala\bin\Debug\ProjetoSala.exe.config
+C:\Users\Aluno\Desktop\ProjetoSala\ProjetoSala\bin\Debug\ProjetoSala.exe
+C:\Users\Aluno\Desktop\ProjetoSala\ProjetoSala\bin\Debug\ProjetoSala.pdb
+C:\Users\Aluno\Desktop\ProjetoSala\ProjetoSala\obj\Debug\ProjetoSala.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoSala\ProjetoSala\obj\Debug\ProjetoSala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\ProjetoSala\ProjetoSala\obj\Debug\ProjetoSala.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoSala\ProjetoSala\obj\Debug\ProjetoSala.exe
+C:\Users\Aluno\Desktop\ProjetoSala\ProjetoSala\obj\Debug\ProjetoSala.pdb
