@@ -13,7 +13,7 @@ namespace ProjetoSala
         {
             this.TipoGasol = tipoGasol;
         }
-        public float PrecoGasolFunc() { return Preco * 1.5f; }
+        public float PrecoGasolFunc() { return Preco * 0.15f; }
         public string TipoGasol { get => tipoGasol; set => tipoGasol = value; }
     }
 }
