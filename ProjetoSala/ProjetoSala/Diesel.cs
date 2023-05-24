@@ -15,7 +15,7 @@ namespace ProjetoSala
 
         public float PrecoDieselFunc()
         {
-            return Preco * 2.0f;
+            return Preco * 0.20f;
         }
     }
 }
