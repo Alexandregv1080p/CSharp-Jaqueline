@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\SobrecargaMetodos\SobrecargaMetodos\bin\Debug\SobrecargaMetodos.exe.config
+C:\Users\Aluno\Desktop\SobrecargaMetodos\SobrecargaMetodos\bin\Debug\SobrecargaMetodos.exe
+C:\Users\Aluno\Desktop\SobrecargaMetodos\SobrecargaMetodos\bin\Debug\SobrecargaMetodos.pdb
+C:\Users\Aluno\Desktop\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.exe
+C:\Users\Aluno\Desktop\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.pdb
